@@ -10,7 +10,7 @@
  Exec CursosPorEstudiante;
 
 ## 3.
- El Procedimiento se encuentra en el archivo "AdminRinconDelVago.bak". 
+ El Trigger se encuentra en el archivo "AdminRinconDelVago.bak". 
   
  Se activa al intentar hacer la siguiente operación:
  DELETE FROM CursoEstudiante where IdEst = 1234
