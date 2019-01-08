@@ -25,13 +25,13 @@
  La estructura del dataMart creado se puede visualizar en el archivo "DiagramaDataMartLiquidación.png"
     
  ## 7.
-   El cubo creado se puede observar en la carpeta "CubeRinconDelVago"
+   El cubo creado se puede observar en el archivo "CubeRinconDelVago.rar"
     
  ## 8. 
-   El paquete SSIS se encuentra en la carpeta "ImportDataToDW"
+   El paquete SSIS se encuentra en el archivo "ImportDataToDW.rar"
     
  ## 9.
-   El reporte se puede observar en la carpeta "ReporteEstudiantes"
+   El reporte se puede observar en el archivo "ReporteEstudiantes.rar"
 
  
  
