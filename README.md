@@ -16,7 +16,7 @@
  DELETE FROM CursoEstudiante where IdEst = 1234
  
  ## 4.
-   La vista se encuentra en el archivo "AdminRinconDelVago.bak", y su nombre es ViewProfesoresCurso.
+   La vista se encuentra en el archivo "AdminRinconDelVago.bak", y su nombre es "ViewProfesoresCurso".
    
  ## 5. 
    La bodega de datos se encuentra en el archivo "DataWarehouseRDV.bak"
