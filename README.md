@@ -1,4 +1,4 @@
-# Respuestas
+# Answers
 
 1. El modelo se encuentra en el archivo "AdminRinconDelVago.bak". De igual manera su estructura se puede visualizar en la imagen: "DiagramaAdminRinconDelVago.png"
  
