@@ -9,8 +9,8 @@
 
 3. El Trigger se encuentra en el archivo "AdminRinconDelVago.bak". 
   
- Se activa al intentar hacer la siguiente operación:
- DELETE FROM CursoEstudiante where IdEst = 1234
+    * Se activa al intentar hacer la siguiente operación:
+    DELETE FROM CursoEstudiante where IdEst = 1234
  
 4. La vista se encuentra en el archivo "AdminRinconDelVago.bak", y su nombre es "ViewProfesoresCurso".
    
